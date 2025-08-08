@@ -1,6 +1,6 @@
 ## RSSrise - Apprise Notifications for FreshRSS Instances
 
-<img align="left" width="100" height="100" src=""> Stay up to date with your FreshRSS Instance on the go.
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/driftywinds/rssrise/refs/heads/main/icons/rssrise-close-trans.png"> Stay up to date with your FreshRSS Instance on the go.
 
 <br>
 
