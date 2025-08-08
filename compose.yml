@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  rssrise:
+    image: ghcr.io/driftywinds/rssrise:latest
+    container_name: rssrise
+    restart: unless-stopped
+    volumes:
+      - ./.env:/app/.env
