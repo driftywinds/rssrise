@@ -6,6 +6,8 @@
 
 [![Pulls](https://img.shields.io/docker/pulls/driftywinds/rssrise.svg?style=for-the-badge)](https://img.shields.io/docker/pulls/driftywinds/rssrise.svg?style=for-the-badge)
 
+RSSrise is primarily for notifications, it does not show the contents of the feed at all. The notifications you receive have the title, the URL and the category of the item only.
+
 Also available on Docker Hub - [```driftywinds/rssrise:latest```](https://hub.docker.com/repository/docker/driftywinds/rssrise/general)
 
 ### How to use: - 
